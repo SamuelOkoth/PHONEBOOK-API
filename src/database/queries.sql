@@ -18,7 +18,7 @@ CREATE TABLE contacts
 
 CREATE TABLE groups
 (
-    groupidid INT IDENTITY(1,1) PRIMARY KEY,
+    groupid INT IDENTITY(1,1) PRIMARY KEY,
     groupname VARCHAR(50),
 )
 
